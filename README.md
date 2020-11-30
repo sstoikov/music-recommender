@@ -1,5 +1,5 @@
 # music-recommender
-This recommender system is based on a binary dataset of music likes/dislikes collected on the PIKI MUSIC app (see https://www.piki.nyc/)
+This recommender system is based on a binary dataset of 355,068 music likes/dislikes collected on the PIKI MUSIC app (see https://www.piki.nyc/)
 
 The data.csv file consists of (user_id,song_id,liked,spotify_popularity):
 - liked is a binary variable that is 0 if the user disliked the song and 1 if the user liked the song
